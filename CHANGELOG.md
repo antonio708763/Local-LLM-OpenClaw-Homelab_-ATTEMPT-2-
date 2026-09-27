@@ -13,5 +13,9 @@ Phase 0: Discovery and education.
 - Do not begin implementation until the desired system and requirements are understood.
 - Explain terminology and present multiple options before major choices.
 
+### Documentation
+- Added the initial project README and clean-slate rules.
+- Added `docs/00-ai-fundamentals.md` covering the first conceptual baseline: AI, ML, generative AI, LLMs, models, inference, tokens, parameters, runtimes, agents, tools, RAG, memory, quantization, VRAM, and possible homelab roles.
+
 ### Next
-Begin with AI/LLM fundamentals and build the requirements profile.
+Continue Phase 0 by deciding what the local AI should actually do and what requirements matter most.
